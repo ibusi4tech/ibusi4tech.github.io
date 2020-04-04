@@ -3,11 +3,11 @@
   <title>欢迎访问布斯小站</title>
   
   <subtitle>φ(&gt;ω&lt;*)</subtitle>
-  <link href="/ibusi4tech.guthub.io/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="http://ibusi4tech.github.io/"/>
-  <updated>2020-04-04T14:51:47.448Z</updated>
-  <id>http://ibusi4tech.github.io/</id>
+  <link href="http://122.51.227.210/"/>
+  <updated>2020-04-04T16:55:52.362Z</updated>
+  <id>http://122.51.227.210/</id>
   
   <author>
     <name>白布斯</name>
@@ -17,9 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>11</title>
+    <link href="http://122.51.227.210/2020/04/05/11/"/>
+    <id>http://122.51.227.210/2020/04/05/11/</id>
+    <published>2020-04-04T16:55:33.391Z</published>
+    <updated>2020-04-04T16:55:52.362Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;12&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>00</title>
-    <link href="http://ibusi4tech.github.io/2020/04/04/00/"/>
-    <id>http://ibusi4tech.github.io/2020/04/04/00/</id>
+    <link href="http://122.51.227.210/2020/04/04/00/"/>
+    <id>http://122.51.227.210/2020/04/04/00/</id>
     <published>2020-04-04T14:51:22.047Z</published>
     <updated>2020-04-04T14:51:47.448Z</updated>
     
@@ -42,8 +66,8 @@
   
   <entry>
     <title>小试牛刀</title>
-    <link href="http://ibusi4tech.github.io/2020/03/18/%E5%B0%8F%E8%AF%95%E7%89%9B%E5%88%80/"/>
-    <id>http://ibusi4tech.github.io/2020/03/18/%E5%B0%8F%E8%AF%95%E7%89%9B%E5%88%80/</id>
+    <link href="http://122.51.227.210/2020/03/18/%E5%B0%8F%E8%AF%95%E7%89%9B%E5%88%80/"/>
+    <id>http://122.51.227.210/2020/03/18/%E5%B0%8F%E8%AF%95%E7%89%9B%E5%88%80/</id>
     <published>2020-03-18T07:49:29.118Z</published>
     <updated>2020-02-11T13:44:51.582Z</updated>
     
@@ -66,8 +90,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://ibusi4tech.github.io/2020/03/18/hello-world/"/>
-    <id>http://ibusi4tech.github.io/2020/03/18/hello-world/</id>
+    <link href="http://122.51.227.210/2020/03/18/hello-world/"/>
+    <id>http://122.51.227.210/2020/03/18/hello-world/</id>
     <published>2020-03-18T07:32:21.456Z</published>
     <updated>2020-02-11T13:44:37.455Z</updated>
     
