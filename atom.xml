@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>欢迎访问布斯小站</title>
+  
+  <subtitle>φ(&gt;ω&lt;*)</subtitle>
+  <link href="/ibusi4tech.guthub.io/atom.xml" rel="self"/>
+  
+  <link href="http://ibusi4tech.github.io/"/>
+  <updated>2020-02-11T13:44:51.582Z</updated>
+  <id>http://ibusi4tech.github.io/</id>
+  
+  <author>
+    <name>白布斯</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>小试牛刀</title>
+    <link href="http://ibusi4tech.github.io/2020/03/18/%E5%B0%8F%E8%AF%95%E7%89%9B%E5%88%80/"/>
+    <id>http://ibusi4tech.github.io/2020/03/18/%E5%B0%8F%E8%AF%95%E7%89%9B%E5%88%80/</id>
+    <published>2020-03-18T07:49:29.118Z</published>
+    <updated>2020-02-11T13:44:51.582Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;data:2019.10.30   2:16am&lt;br&gt;在帅学长的帮助下，博客的雏形就这样完成啦！&lt;br&gt;再次感谢!&lt;/p&gt;
+&lt;p&gt; &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://ibusi4tech.github.io/2020/03/18/hello-world/"/>
+    <id>http://ibusi4tech.github.io/2020/03/18/hello-world/</id>
+    <published>2020-03-18T07:32:21.456Z</published>
+    <updated>2020-02-11T13:44:37.455Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post.
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
