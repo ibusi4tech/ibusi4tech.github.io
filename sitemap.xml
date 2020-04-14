@@ -2,23 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://122.51.227.210/2020/04/05/11/</loc>
-    
-    <lastmod>2020-04-04T16:55:52.362Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://122.51.227.210/2020/04/04/00/</loc>
-    
-    <lastmod>2020-04-04T14:51:47.448Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://122.51.227.210/link/index.html</loc>
     
-    <lastmod>2020-04-04T14:32:14.607Z</lastmod>
+    <lastmod>2020-04-14T15:10:09.204Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://122.51.227.210/about/index.html</loc>
+    
+    <lastmod>2020-04-14T13:23:28.962Z</lastmod>
     
   </url>
   
@@ -33,20 +26,6 @@
     <loc>http://122.51.227.210/2020/03/18/hello-world/</loc>
     
     <lastmod>2020-02-11T13:44:37.455Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://122.51.227.210/friends/index.html</loc>
-    
-    <lastmod>2020-01-25T11:03:43.891Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://122.51.227.210/about/index.html</loc>
-    
-    <lastmod>2020-01-25T11:03:08.881Z</lastmod>
     
   </url>
   
